@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[winning wellbeing]]></title>
-        <description><![CDATA[winning wellbeing]]></description>
+        <title><![CDATA[Kate Hayden Health and Fitness]]></title>
+        <description><![CDATA[Kate Hayden Health and Fitness]]></description>
         <link>https://thegrid.ai/katehayden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 00:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 20:24:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/katehayden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A little bit about my own wellbeing journey……</p>]]></description>
             <link>https://thegrid.ai/katehayden/a-little-bit-about-my-own-wellbeing-journey/index.html</link>
             <guid isPermaLink="false">631c10d8-af22-45ef-9f81-334772d5a781</guid>
-            <pubDate>Tue, 10 May 2016 23:49:09 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 20:24:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
