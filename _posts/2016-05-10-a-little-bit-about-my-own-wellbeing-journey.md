@@ -5,18 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A little bit about my own wellbeing journey……
-datePublished: '2016-05-10T23:49:09.342Z'
-dateModified: '2016-05-10T23:47:41.327Z'
+datePublished: '2016-09-01T20:24:29.820Z'
+dateModified: '2016-09-01T20:24:29.073Z'
 title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-10-a-little-bit-about-my-own-wellbeing-journey.md
+via: {}
+starred: true
 url: a-little-bit-about-my-own-wellbeing-journey/index.html
 _type: Article
 
