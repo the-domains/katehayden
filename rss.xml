@@ -4,7 +4,7 @@
         <description><![CDATA[Kate Hayden Health and Fitness]]></description>
         <link>https://thegrid.ai/katehayden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 20:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 21:16:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/katehayden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/katehayden/a-little-bit-about-my-own-wellbeing-journey/index.html</link>
             <guid isPermaLink="false">631c10d8-af22-45ef-9f81-334772d5a781</guid>
             <pubDate>Thu, 01 Sep 2016 20:36:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440720dc1194dc36d536b01baabdb28f2a26e593.jpg" alt="you are what you eat">]]></description>
+            <link>https://thegrid.ai/katehayden/you-are-what-you-eat/index.html</link>
+            <guid isPermaLink="false">8415987d-36a9-4465-96d3-b15747fe6aa8</guid>
+            <pubDate>Thu, 01 Sep 2016 21:15:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
