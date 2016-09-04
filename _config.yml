@@ -28,6 +28,9 @@ navigation:
   - name: About
     url: www.winningwellbeing.com
     type: external
+  - name: 'About '
+    id: 631c10d8-af22-45ef-9f81-334772d5a781
+    type: content
 favicon: null
 title: Kate Hayden Health and Fitness
 purpose: []
